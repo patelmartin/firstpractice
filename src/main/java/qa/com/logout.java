@@ -6,5 +6,9 @@ public class logout {
 	{
 		System.out.println("logout");
 	}
+	public void log()
+	{
+		System.out.println("log");
+	}
 
 }
