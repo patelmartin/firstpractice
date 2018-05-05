@@ -10,5 +10,9 @@ public class logout {
 	{
 		System.out.println("log");
 	}
+	public void log1()
+	{
+		System.out.println("log1");
+	}
 
 }
