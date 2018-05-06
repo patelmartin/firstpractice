@@ -18,8 +18,5 @@ public class Login {
 	{
 		System.out.println("first break up");
 	}
-	public void firstchange()
-	{
-		System.out.println("first change");
-	}
+	
 }
